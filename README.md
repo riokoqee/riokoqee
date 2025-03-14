@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Ansar
-<div class="tenor-gif-embed" data-postid="18338375031522690586" data-share-method="host" data-aspect-ratio="0.901639" data-width="100%"><a href="https://tenor.com/view/azumanga-daioh-osaka-anime-dancce-anime-dance-gif-18338375031522690586">Azumanga Daioh Osaka Sticker</a>from <a href="https://tenor.com/search/azumanga+daioh-stickers">Azumanga Daioh Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/ru/view/azumanga-daioh-osaka-anime-dancce-anime-dance-gif-18338375031522690586" height="32"/></h1>
 <h3 align="center">Software Developer</h3>
 
 <h2 align="center">💻 Tech Stack:</h2>
