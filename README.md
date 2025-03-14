@@ -1,6 +1,6 @@
 <h1 align="center">Greetings, I'm Ansar
-<img src="https://tenor.com/ru/view/azumanga-![tenor](https://github.com/user-attachments/assets/88ef6ac4-6646-4221-825a-47ea8411ff0e)
-daioh-osaka-anime-dancce-anime-dance-gif-18338375031522690586" height="32"/></h1>
+![tenor](https://github.com/user-attachments/assets/9c4f2dba-d980-4e5c-a016-c9e55824110b)
+
 <h3 align="center">Software Developer</h3>
 
 <h2 align="center">💻 Tech Stack:</h2>
