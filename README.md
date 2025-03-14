@@ -13,7 +13,7 @@
 
 <h3 align="center">Video Editor</h3>
 
-<h2 align="center">💻 Tech Stack:</h2>
+<h2 align="center">🎥 Tech Stack:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
