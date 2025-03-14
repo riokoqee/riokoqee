@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Ansar
-![tenor](https://github.com/user-attachments/assets/9c4f2dba-d980-4e5c-a016-c9e55824110b)
+https://github.com/user-attachments/assets/9c4f2dba-d980-4e5c-a016-c9e55824110b
 
 <h3 align="center">Software Developer</h3>
 
