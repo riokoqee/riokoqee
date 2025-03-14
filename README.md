@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Ansar
-![tenor](https://github.com/user-attachments/assets/09a8df23-9258-4d85-9d98-71fbb92079e0)
+<img src="https://media.tenor.com/_n7-7ifNhhoAAAAj/azumanga-daioh-osaka.gif" height="150"/>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">Software Developer</h3>
