@@ -1,5 +1,6 @@
 <h1 align="center">Greetings, I'm Ansar
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
+<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
+"/>
 
 <h3 align="center">Software Developer</h3>
 
