@@ -1,6 +1,5 @@
 <h1 align="center">Greetings, I'm Ansar
-<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
-"/>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">Software Developer</h3>
 
