@@ -55,7 +55,7 @@ A 2D game created with Java & LibGDX.
 
 </td>
 <td width="20%" align="center">
-<img src="https://media.tenor.com/C4yM6-w8vU8AAAAM/osaka-simulator.gif" width="110"/>
+<img src="https://media1.tenor.com/m/bJbVnS-k1KkAAAAd/thorfinn-self-reflection.gif" width="110"/>
 </td>
 </tr>
 
@@ -84,7 +84,7 @@ Travel application built in Java.
 
 </td>
 <td width="20%" align="center">
-<img src="https://media1.tenor.com/m/dwJduuI-XDQAAAAd/osaka-azumanga-daioh.gif" width="110"/>
+<img src="https://media1.tenor.com/m/2NGBHeii5HAAAAAd/kinos-journey.gif" width="110"/>
 </td>
 </tr>
 </table>
@@ -93,8 +93,8 @@ Travel application built in Java.
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=riokoqee&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riokoqee&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=riokoqee&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=riokoqee&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=riokoqee&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
