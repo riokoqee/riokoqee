@@ -1,51 +1,158 @@
-<h1 align="center">Greetings, I'm Ansar
-<img src="https://media.tenor.com/_n7-7ifNhhoAAAAj/azumanga-daioh-osaka.gif" height="64"/>
+<h1 align="center">
+  Greetings, I'm Ansar
+  <img src="https://media.tenor.com/_n7-7ifNhhoAAAAj/azumanga-daioh-osaka.gif" height="64"/>
+</h1>
 
 <h3 align="center">Software Developer</h3>
 
-<h2 align="center">💻 Tech Stack:</h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <i>Building applications, games and ideas one commit at a time.</i>
 </p>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  🇰🇿 Kazakhstan • 🎓 Information Engineering • ☕ Java Enthusiast
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  
-### 📚 <a href="https://github.com/riokoqee/YomuNeko">YomuNeko</a>
 
-Personal manga & comic library platform.
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<b>React • Node.js • PostgreSQL</b>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
----
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### 🎮 <a href="https://github.com/riokoqee/Reflection">Reflection</a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-2D game built with Java and LibGDX.
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<b>Java • LibGDX</b>
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/LibGDX-black?style=for-the-badge"/>
 
-### 💧 <a href="https://github.com/riokoqee/WaterTracker">WaterTracker</a>
-
-Application for tracking daily water intake.
-
-<b>Java • Android</b>
+</p>
 
 ---
 
-### 🌍 <a href="https://github.com/riokoqee/Wanderer">Wanderer</a>
+# 🚀 Featured Projects
 
-Travel application.
+<table>
 
-<b>Java</b>
+<tr>
+
+<td width="80%">
+
+## 📚 <a href="https://github.com/riokoqee/YomuNeko">YomuNeko</a>
+
+Personal manga & comic library platform with authentication, uploads and reading progress.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+
+</td>
+
+<td>
+
+📖
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="80%">
+
+## 🎮 <a href="https://github.com/riokoqee/Reflection">Reflection</a>
+
+A 2D game created with Java & LibGDX.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LibGDX-black?style=flat-square"/>
+
+</td>
+
+<td>
+
+🎮
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="80%">
+
+## 💧 <a href="https://github.com/riokoqee/WaterTracker">WaterTracker</a>
+
+Android application for tracking your daily water intake.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/>
+
+</td>
+
+<td>
+
+🥤
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="80%">
+
+## 🌍 <a href="https://github.com/riokoqee/Wanderer">Wanderer</a>
+
+Travel application built in Java.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square"/>
+
+</td>
+
+<td>
+
+🗺️
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=riokoqee&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riokoqee&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=riokoqee&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Keep building. Every project teaches something new."</i>
 
 </p>
