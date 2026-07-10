@@ -14,11 +14,38 @@
   <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
-<h3 align="center">Video Editor</h3>
-
-<h2 align="center">🎥 Tech Stack:</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label="/>
+  
+### 📚 <a href="https://github.com/riokoqee/YomuNeko">YomuNeko</a>
+
+Personal manga & comic library platform.
+
+<b>React • Node.js • PostgreSQL</b>
+
+---
+
+### 🎮 <a href="https://github.com/riokoqee/Reflection">Reflection</a>
+
+2D game built with Java and LibGDX.
+
+<b>Java • LibGDX</b>
+
+---
+
+### 💧 <a href="https://github.com/riokoqee/WaterTracker">WaterTracker</a>
+
+Application for tracking daily water intake.
+
+<b>Java • Android</b>
+
+---
+
+### 🌍 <a href="https://github.com/riokoqee/Wanderer">Wanderer</a>
+
+Travel application.
+
+<b>Java</b>
+
 </p>
