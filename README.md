@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="80%">
 
 ## 📚 <a href="https://github.com/riokoqee/YomuNeko">YomuNeko</a>
 Personal manga & comic library platform with authentication, uploads and reading progress.
@@ -39,14 +39,13 @@ Personal manga & comic library platform with authentication, uploads and reading
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 
 </td>
-<td width="15%" align="center">📖</td>
-<td width="15%" align="center">
+<td width="20%" align="center">
 <img src="https://media1.tenor.com/m/70ePMv_SqN4AAAAd/osaka-azumanga-daioh.gif" width="110"/>
 </td>
 </tr>
 
 <tr>
-<td width="70%">
+<td width="80%">
 
 ## 🎮 <a href="https://github.com/riokoqee/Reflection">Reflection</a>
 A 2D game created with Java & LibGDX.
@@ -55,14 +54,13 @@ A 2D game created with Java & LibGDX.
 <img src="https://img.shields.io/badge/LibGDX-black?style=flat-square"/>
 
 </td>
-<td width="15%" align="center">🎮</td>
-<td width="15%" align="center">
+<td width="20%" align="center">
 <img src="https://media.tenor.com/C4yM6-w8vU8AAAAM/osaka-simulator.gif" width="110"/>
 </td>
 </tr>
 
 <tr>
-<td width="70%">
+<td width="80%">
 
 ## 💧 <a href="https://github.com/riokoqee/WaterTracker">WaterTracker</a>
 Android application for tracking your daily water intake.
@@ -71,14 +69,13 @@ Android application for tracking your daily water intake.
 <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/>
 
 </td>
-<td width="15%" align="center">🥤</td>
-<td width="15%" align="center">
+<td width="20%" align="center">
 <img src="https://media1.tenor.com/m/F9b_orG6DYsAAAAd/osaka-azumanga-daioh.gif" width="90"/>
 </td>
 </tr>
 
 <tr>
-<td width="70%">
+<td width="80%">
 
 ## 🌍 <a href="https://github.com/riokoqee/Wanderer">Wanderer</a>
 Travel application built in Java.
@@ -86,8 +83,7 @@ Travel application built in Java.
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square"/>
 
 </td>
-<td width="15%" align="center">🗺️</td>
-<td width="15%" align="center">
+<td width="20%" align="center">
 <img src="https://media1.tenor.com/m/dwJduuI-XDQAAAAd/osaka-azumanga-daioh.gif" width="110"/>
 </td>
 </tr>
