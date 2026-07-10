@@ -7,7 +7,7 @@
   <i>Building applications, games and ideas one commit at a time.</i>
 </p>
 <p align="center">
-  🇰🇿 Kazakhstan • 🎓 Information Engineering • ☕ Java Enthusiast
+  🇰🇿 Kazakhstan • 🎓 Information Engineering
 </p>
 
 ---
