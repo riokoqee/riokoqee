@@ -55,7 +55,7 @@ A 2D game created with Java & LibGDX.
 
 </td>
 <td width="20%" align="center">
-<img src="https://media.tenor.com/C4yM6-w8vU8AAAAM/osaka-simulator.gif" width="110"/>
+<img src="https://media1.tenor.com/m/MvzQF5aSD5kAAAAd/chiyo-chan-azumanga-daioh.gif" width="110"/>
 </td>
 </tr>
 
@@ -84,7 +84,7 @@ Travel application built in Java.
 
 </td>
 <td width="20%" align="center">
-<img src="https://media1.tenor.com/m/dwJduuI-XDQAAAAd/osaka-azumanga-daioh.gif" width="110"/>
+<img src="https://media1.tenor.com/m/00Qe_Gu-xK4AAAAd/azumanga-daioh.gif" width="110"/>
 </td>
 </tr>
 </table>
