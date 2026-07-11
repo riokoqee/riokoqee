@@ -40,7 +40,7 @@ Personal manga & comic library platform where users can register, upload their o
 
 </td>
 <td width="20%" align="center" valign="middle">
-<img src="assets/yomuneko_pic.jfif" width="100%"/>
+<img src="assets/yomuneko_pic.jpg" width="100%"/>
 </td>
 </tr>
 
