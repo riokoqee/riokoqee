@@ -48,7 +48,7 @@ Personal manga & comic library platform where users can register, upload their o
 <td width="80%" valign="middle">
 
 ## 🎮 <a href="https://github.com/riokoqee/Reflection">Reflection</a>
-A 2D narrative adventure game built with Java and LibGDX, where the player's choices are analyzed through the Big Five personality model to shape the story. Originally developed as a diploma project, it explores how gameplay decisions can reflect real personality traits back at the player.
+A 2D narrative adventure game built with Java(currently transitioning to libgdx), where the player's choices are analyzed through the Big Five personality model to shape the story. Originally developed as a diploma project, it explores how gameplay decisions can reflect real personality traits back at the player.
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square"/>
 <img src="https://img.shields.io/badge/LibGDX-black?style=flat-square"/>
