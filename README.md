@@ -40,7 +40,7 @@ Personal manga & comic library platform where users can register, upload their o
 
 </td>
 <td width="20%" align="center" valign="middle">
-<img src="assets/yomuneko.jpg" width="100%"/>
+<img src="assets/yomuneko_pic.jfif" width="100%"/>
 </td>
 </tr>
 
@@ -55,7 +55,7 @@ A 2D narrative adventure game built with Java and LibGDX, where the player's cho
 
 </td>
 <td width="20%" align="center" valign="middle">
-<img src="assets/reflection.jpg" width="100%"/>
+<img src="assets/reflection_pic.jfif" width="100%"/>
 </td>
 </tr>
 
@@ -70,7 +70,7 @@ Android application that helps users build a healthier hydration habit by loggin
 
 </td>
 <td width="20%" align="center" valign="middle">
-<img src="assets/watertracker.jpg" width="100%"/>
+<img src="assets/watertracker_pic.jfif" width="100%"/>
 </td>
 </tr>
 
@@ -84,7 +84,7 @@ A Java-based RPG following a lone traveler's journey through an unfamiliar world
 
 </td>
 <td width="20%" align="center" valign="middle">
-<img src="assets/wanderer.jpg" width="100%"/>
+<img src="assets/wanderer_pic.jfif" width="100%"/>
 </td>
 </tr>
 </table>
