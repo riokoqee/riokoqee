@@ -93,10 +93,6 @@ A Java-based RPG following a lone traveler's journey through an unfamiliar world
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=riokoqee&theme=tokyonight&show_icons=true&hide_border=true"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riokoqee&theme=tokyonight&layout=compact&hide_border=true"/>
-</p>
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=riokoqee&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
