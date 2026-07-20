@@ -91,13 +91,6 @@ A Java-based RPG following a lone traveler's journey through an unfamiliar world
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=riokoqee&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
-
 <p align="center">
 <i>"Keep building."</i>
 </p>
